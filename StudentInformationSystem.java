@@ -24,6 +24,7 @@ public class StudentInformationSystem {
         System.out.println("Mark 2  :" + mark2);
         System.out.println("----------------------------------");
         System.out.println("Total mark: " +totalMark);
+        System.out.println("Semester: Semester 1");
         
         System.out.println("Performance : ");//displaying a message based on total marks
         if (totalMark >=160) {
